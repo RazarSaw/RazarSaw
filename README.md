@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RazarSaw
-- 👀 I’m interested in web development, and object orianted programming
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C and Python
+Been in web development since 2017, and object orianted programming since 2020. Fan of DRY, KISS, and self learning.
 
 <!---
 RazarSaw/RazarSaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
