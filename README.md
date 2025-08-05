@@ -1,4 +1,4 @@
-Been in web development since 2017, and object orianted programming since 2020. Fan of DRY, KISS, and self learning.
+Been in web development since 2017, and object oriented programming since 2020. Fan of DRY, KISS, and self learning.
 
 <!---
 RazarSaw/RazarSaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
